@@ -13,11 +13,11 @@ def main():
     players = stats.top_scorers_by_nationality(country)
     table = Table(title=f"Players from country: {country}")
 
-    table.add_column("Name", justify="left", style="cyan", no_wrap=True)
-    table.add_column("Team", justify="center", style="magenta")
-    table.add_column("Goals", justify="center", style="green")
-    table.add_column("Assists", justify="center", style="green")
-    table.add_column("Points", justify="center", style="green")
+    table.add_column("Name", style="cyan", no_wrap=True)
+    table.add_column("Team", style="magenta")
+    table.add_column("Goals", style="green")
+    table.add_column("Assists", style="green")
+    table.add_column("Points", style="green")
 
     for player in players:
         table.add_row(player.name, player.team, str(player.goals), str(player.assists), str(player.points))
