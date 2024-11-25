@@ -1,0 +1,5 @@
+Retrospektiivi on sprintin päätteeksi pidettävä scrum-tiimin sisäinen kokous, jossa tiimi tarkastelee scrum masterin johdolla työskentelyprosessinsa toimivuutta. Retrospektiivin pitämiseen on kehitetty muun muassa kestoltaan, painotuksiltaan ja tavoitteiltaan eroavia käytäntöjä.
+
+Start, Stop, Continue, More of, Less of Wheel -tekniikassa tiimi jaottelee havaintonsa nimensä mukaisiin viiteen kategoriaan, mitä käytäntöjä pitäisi aloittaa, lopettaa, jatkaa, lisätä tai vähentää. Tällainen kategorisointi keskittyy tuomaan esille muutostarpeita. Aiheista keskustellaan joko suoraan koko tiimin kesken tai suurissa tiimeissä pienemmät osaryhmät voivat ensin kirjata havaintojaan omasta vastuualueestaan.
+
+Glad, Sad, Mad -tekniikka painottaa ryhmän tuntemuksia kuluneesta jaksosta: mikä on tehnyt heidät tyytyväiseksi, aihettanut pettymyksiä tai ärsyttänyt. Lähestymistapa painottaa tunnereaktioita. Esiin tulleista aiheista äänestetään ja keskustellaan äänten mukaan laskevassa järjestyksessä, kunnes aiheet tai aika loppuvat.
